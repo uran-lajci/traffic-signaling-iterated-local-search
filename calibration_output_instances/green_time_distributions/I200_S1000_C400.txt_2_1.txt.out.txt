@@ -1,0 +1,1399 @@
+200
+0
+5
+square_athens199 1
+lane_les_tokyo597 1
+street_le_lisbon995 1
+lane_des_london796 3
+sheshi_le_tokyo398 1
+1
+5
+avenue_madrid0 1
+lane_prishtina797 1
+bulevard_rio598 1
+square_london399 1
+bulevard_le_berlin996 1
+2
+5
+place_madrid798 2
+rruga_la_tokyo200 1
+sheshi_le_madrid599 1
+road_berlin1 1
+boulevard_les_tokyo997 1
+3
+5
+rrethi_moscow799 3
+square_london201 3
+lane_newyork2 1
+place_d'_madrid400 1
+bulevardi_cairo998 1
+4
+4
+road_des_lisbon3 1
+street_du_cairo600 1
+boulevard_newyork202 1
+avenue_d'_athens999 1
+5
+5
+bulevardi_la_sydney800 1
+square_paris402 3
+bulevardi_london203 1
+avenue_moscow4 2
+rrethi_des_sydney601 1
+6
+5
+avenue_moscow801 1
+rue_moscow5 2
+rue_rome602 1
+avenue_beijing204 2
+rrethi_beijing403 1
+7
+5
+rue_lisbon6 1
+rue_les_prishtina802 1
+rruga_le_beijing603 1
+square_berlin404 1
+place_madrid205 1
+8
+5
+buleva_lisbon803 1
+boulevard_la_tokyo206 1
+road_rio7 1
+sheshi_athens405 2
+road_berlin604 1
+9
+5
+sheshi_d'_rio804 1
+road_moscow207 1
+bulevardi_la_lisbon605 1
+boulevard_sydney406 1
+bulevardi_london8 1
+10
+5
+rruga_tokyo805 2
+bulevardi_tokyo9 1
+avenue_la_paris208 1
+rruga_berlin407 1
+street_la_athens606 1
+11
+5
+bulevardi_rome607 2
+boulevard_moscow209 1
+rue_rome10 1
+avenue_sydney408 1
+boulevard_beijing806 1
+12
+5
+place_les_tokyo608 1
+road_la_beijing210 3
+bulevardi_de_athens11 1
+place_rome409 1
+rruga_tokyo807 1
+13
+5
+buleva_de_prishtina12 1
+lane_la_berlin211 1
+bulevard_sydney410 1
+rrethi_cairo609 1
+buleva_le_lisbon808 2
+14
+5
+bulevard_moscow610 1
+rruga_d'_rome809 1
+road_les_moscow13 3
+lane_berlin411 1
+buleva_la_sydney212 1
+15
+5
+avenue_rio14 1
+buleva_lisbon611 1
+rrethi_athens412 1
+street_london213 1
+rruga_du_berlin810 2
+16
+5
+rruga_tokyo413 2
+square_tokyo214 3
+sheshi_lisbon811 1
+boulevard_rome15 1
+boulevard_du_sydney612 1
+17
+5
+rrethi_les_athens215 1
+bulevardi_d'_beijing812 1
+street_du_lisbon414 1
+rrethi_la_newyork613 1
+rruga_les_sydney16 1
+18
+5
+bulevard_tokyo17 1
+rrethi_paris216 1
+buleva_de_newyork614 1
+rue_london813 1
+boulevard_du_berlin415 1
+19
+5
+bulevard_prishtina416 1
+rrethi_london615 1
+road_d'_berlin814 1
+buleva_de_cairo18 3
+lane_paris217 1
+20
+5
+boulevard_prishtina815 1
+rrethi_du_newyork19 1
+rue_paris218 1
+avenue_la_sydney417 1
+avenue_le_prishtina616 1
+21
+5
+rrethi_tokyo816 1
+bulevardi_du_moscow617 1
+bulevard_la_cairo219 2
+rruga_des_beijing20 1
+square_la_rome418 1
+22
+5
+sheshi_du_cairo618 1
+sheshi_athens21 1
+rruga_du_tokyo419 1
+sheshi_la_rome220 1
+bulevard_des_moscow817 1
+23
+5
+road_sydney22 2
+buleva_la_paris619 1
+rue_les_tokyo420 1
+rruga_rome221 1
+place_des_london818 3
+24
+5
+rrethi_d'_tokyo23 2
+road_cairo819 1
+lane_berlin620 1
+bulevard_tokyo222 1
+road_sydney421 3
+25
+5
+lane_rio820 1
+buleva_madrid223 2
+road_le_tokyo24 1
+place_moscow621 4
+bulevard_paris422 1
+26
+5
+bulevardi_de_newyork423 1
+rruga_les_london224 1
+sheshi_newyork821 1
+lane_prishtina25 1
+rruga_les_tokyo622 1
+27
+5
+bulevard_madrid225 1
+rruga_des_moscow424 1
+bulevard_le_madrid822 1
+square_les_lisbon26 1
+boulevard_de_london623 1
+28
+5
+place_le_berlin425 3
+buleva_les_beijing823 1
+road_le_moscow226 1
+street_lisbon624 1
+bulevardi_le_rio27 1
+29
+5
+rue_d'_prishtina625 1
+road_d'_cairo227 1
+place_la_paris28 1
+sheshi_les_rome824 1
+bulevard_les_lisbon426 1
+30
+5
+sheshi_de_rome29 1
+rruga_paris228 1
+rue_rio427 1
+bulevard_les_madrid626 1
+avenue_la_rio825 1
+31
+5
+sheshi_du_prishtina826 1
+street_tokyo229 1
+rue_tokyo627 1
+rrethi_d'_newyork428 3
+road_tokyo30 1
+32
+5
+sheshi_lisbon230 1
+bulevardi_les_berlin31 1
+bulevardi_des_beijing827 1
+street_le_sydney628 1
+lane_newyork429 3
+33
+5
+bulevardi_tokyo32 1
+bulevardi_des_lisbon231 1
+street_de_rome430 2
+bulevardi_sydney828 1
+boulevard_de_beijing629 1
+34
+5
+rue_cairo33 3
+lane_madrid630 3
+street_rome232 1
+bulevardi_du_london829 1
+avenue_berlin431 1
+35
+5
+rue_berlin34 1
+place_newyork830 1
+lane_les_rome631 1
+rruga_tokyo233 1
+rue_du_moscow432 1
+36
+5
+sheshi_moscow433 1
+buleva_athens234 2
+sheshi_paris632 2
+boulevard_d'_prishtina35 1
+rrethi_newyork831 1
+37
+5
+street_de_moscow832 1
+rruga_de_paris633 1
+rrethi_la_beijing36 1
+lane_beijing434 1
+bulevardi_lisbon235 1
+38
+5
+rruga_moscow37 1
+place_du_berlin833 1
+sheshi_le_newyork236 1
+buleva_paris435 1
+road_sydney634 1
+39
+5
+avenue_london635 1
+rruga_les_paris237 1
+street_du_london834 1
+boulevard_beijing436 1
+street_prishtina38 1
+40
+5
+buleva_de_moscow835 1
+bulevardi_d'_beijing636 1
+sheshi_des_lisbon437 1
+lane_tokyo39 1
+avenue_prishtina238 1
+41
+5
+buleva_le_paris40 1
+rrethi_madrid836 1
+square_des_rome239 1
+lane_london637 5
+rrethi_moscow438 1
+42
+5
+road_d'_cairo41 1
+road_de_prishtina638 1
+square_cairo439 1
+lane_madrid837 1
+lane_d'_newyork240 3
+43
+5
+avenue_d'_tokyo241 1
+street_sydney42 1
+sheshi_lisbon639 1
+rrethi_de_rio440 1
+buleva_lisbon838 2
+44
+5
+place_tokyo640 1
+buleva_madrid839 1
+avenue_athens43 1
+buleva_cairo242 1
+rrethi_d'_beijing441 1
+45
+5
+rruga_rio641 1
+bulevardi_athens44 1
+street_des_newyork840 1
+rrethi_des_madrid243 1
+sheshi_newyork442 1
+46
+5
+buleva_rome45 3
+boulevard_london443 1
+street_rio841 1
+sheshi_sydney244 1
+boulevard_le_madrid642 1
+47
+5
+rue_madrid643 1
+buleva_cairo842 1
+rue_du_prishtina444 1
+avenue_cairo245 1
+square_du_madrid46 1
+48
+5
+rruga_des_beijing843 2
+boulevard_le_cairo445 1
+avenue_le_madrid644 1
+buleva_du_tokyo246 1
+bulevard_athens47 1
+49
+5
+street_moscow446 1
+bulevard_la_moscow247 1
+road_sydney48 1
+rrethi_le_athens844 1
+place_des_paris645 1
+50
+5
+avenue_sydney646 1
+avenue_d'_london845 1
+road_berlin49 1
+buleva_la_athens248 1
+boulevard_rome447 1
+51
+5
+avenue_beijing249 2
+lane_newyork50 1
+lane_la_lisbon846 1
+square_la_cairo647 1
+sheshi_beijing448 1
+52
+5
+road_le_sydney847 3
+bulevard_les_newyork51 3
+rue_paris449 1
+square_la_beijing648 4
+rruga_paris250 1
+53
+5
+road_berlin848 2
+road_beijing251 2
+bulevardi_athens52 2
+buleva_le_tokyo649 1
+buleva_les_tokyo450 1
+54
+5
+road_de_newyork451 1
+rrethi_le_lisbon53 1
+bulevard_prishtina650 1
+boulevard_london252 3
+bulevard_la_athens849 1
+55
+5
+rruga_beijing253 1
+avenue_cairo651 1
+rue_la_madrid54 1
+place_moscow850 1
+bulevardi_des_prishtina452 1
+56
+5
+bulevard_les_cairo652 2
+rrethi_des_paris254 1
+road_la_madrid55 1
+sheshi_les_paris851 1
+bulevardi_la_newyork453 1
+57
+5
+bulevard_d'_prishtina852 1
+road_sydney255 1
+buleva_de_london653 2
+rruga_tokyo454 1
+place_moscow56 2
+58
+5
+lane_les_madrid57 1
+avenue_des_newyork654 1
+boulevard_rio853 1
+road_rio256 1
+rrethi_cairo455 1
+59
+5
+bulevard_le_paris456 1
+road_moscow854 1
+lane_de_tokyo257 1
+rruga_prishtina58 1
+buleva_du_moscow655 1
+60
+5
+buleva_tokyo258 1
+bulevard_newyork855 4
+buleva_d'_moscow656 3
+lane_tokyo59 1
+lane_sydney457 1
+61
+5
+square_du_athens259 1
+street_newyork856 1
+rruga_madrid657 1
+rrethi_lisbon60 1
+bulevard_le_moscow458 1
+62
+5
+buleva_prishtina658 1
+street_la_rome459 1
+lane_lisbon260 1
+place_de_prishtina61 1
+lane_de_prishtina857 1
+63
+5
+bulevardi_cairo62 1
+boulevard_prishtina261 1
+road_rome460 1
+square_du_tokyo858 2
+place_lisbon659 1
+64
+5
+square_madrid859 1
+rruga_des_madrid660 1
+boulevard_les_athens63 1
+boulevard_des_athens262 1
+avenue_sydney461 1
+65
+5
+bulevard_tokyo661 1
+buleva_paris263 1
+sheshi_des_tokyo64 1
+street_london462 1
+buleva_le_tokyo860 1
+66
+5
+buleva_london264 1
+square_le_paris662 1
+road_prishtina65 1
+road_prishtina463 1
+rruga_moscow861 1
+67
+5
+rruga_la_london265 1
+buleva_d'_rome464 3
+boulevard_cairo862 1
+rruga_de_lisbon663 2
+lane_les_prishtina66 3
+68
+5
+bulevardi_la_cairo266 2
+square_du_berlin863 1
+avenue_de_lisbon664 1
+avenue_les_rome465 1
+bulevardi_paris67 1
+69
+5
+rruga_lisbon68 1
+buleva_d'_rio864 1
+rruga_de_london267 1
+street_cairo466 1
+road_du_athens665 5
+70
+5
+avenue_sydney666 1
+sheshi_la_athens467 1
+rrethi_le_cairo268 1
+street_tokyo69 3
+buleva_london865 1
+71
+5
+buleva_moscow667 1
+bulevard_newyork866 2
+street_london269 1
+road_les_tokyo70 1
+rruga_d'_athens468 1
+72
+5
+boulevard_d'_rome668 1
+sheshi_sydney71 1
+street_moscow270 1
+bulevardi_rio867 3
+road_rio469 1
+73
+5
+lane_berlin72 1
+street_d'_london271 1
+rrethi_rio669 1
+bulevardi_beijing470 1
+rrethi_le_rio868 1
+74
+5
+lane_berlin272 1
+square_tokyo73 1
+boulevard_sydney471 1
+square_paris670 1
+rruga_cairo869 3
+75
+5
+sheshi_de_athens671 1
+square_de_rome273 1
+place_cairo472 1
+street_tokyo870 1
+road_paris74 1
+76
+5
+bulevard_moscow871 3
+rue_rio274 1
+avenue_d'_madrid473 1
+avenue_lisbon75 1
+bulevardi_la_prishtina672 1
+77
+5
+bulevardi_de_moscow275 1
+bulevard_du_rome474 1
+boulevard_du_cairo76 2
+sheshi_sydney872 1
+rue_d'_london673 1
+78
+5
+road_du_moscow475 2
+avenue_de_beijing873 1
+street_des_athens77 1
+rrethi_la_athens276 1
+bulevardi_des_sydney674 1
+79
+5
+bulevardi_berlin78 1
+bulevard_athens476 1
+rruga_les_paris874 2
+buleva_sydney675 1
+rue_la_newyork277 1
+80
+5
+rrethi_du_moscow676 1
+street_des_london278 1
+rruga_beijing875 1
+bulevardi_de_cairo79 1
+lane_paris477 1
+81
+5
+rue_de_rome876 1
+square_de_rio279 1
+square_newyork478 1
+bulevard_tokyo677 1
+street_les_beijing80 1
+82
+5
+road_london280 1
+rruga_les_prishtina678 2
+bulevard_des_beijing877 1
+square_newyork479 1
+bulevardi_tokyo81 1
+83
+5
+rrethi_rio878 1
+square_de_london82 1
+avenue_tokyo281 1
+place_cairo480 1
+rruga_lisbon679 1
+84
+5
+road_sydney879 1
+street_la_berlin83 1
+street_rome680 1
+rrethi_paris282 1
+sheshi_la_tokyo481 1
+85
+5
+sheshi_le_sydney283 1
+avenue_athens681 1
+boulevard_la_rio84 1
+sheshi_paris880 1
+rruga_du_athens482 1
+86
+5
+sheshi_la_rio483 1
+rue_les_newyork284 1
+lane_les_prishtina682 1
+rue_sydney85 1
+bulevard_des_tokyo881 1
+87
+5
+rrethi_d'_athens285 1
+rue_cairo86 1
+bulevardi_athens683 4
+sheshi_rome484 1
+sheshi_de_tokyo882 1
+88
+5
+street_athens883 1
+square_la_beijing684 1
+street_rome286 2
+lane_d'_athens485 1
+rue_lisbon87 3
+89
+5
+lane_de_sydney287 1
+bulevard_la_sydney88 1
+place_london884 1
+rrethi_lisbon685 1
+square_rio486 1
+90
+5
+place_tokyo288 1
+buleva_rio686 1
+rue_d'_prishtina885 1
+bulevard_les_paris89 1
+avenue_paris487 1
+91
+5
+rruga_de_cairo90 1
+bulevardi_newyork289 1
+bulevard_cairo488 2
+lane_le_rio886 3
+rruga_madrid687 1
+92
+5
+sheshi_la_tokyo887 1
+lane_athens290 1
+rruga_berlin489 1
+rue_cairo688 1
+sheshi_de_moscow91 1
+93
+5
+buleva_des_paris689 1
+rrethi_d'_prishtina888 1
+sheshi_tokyo291 2
+rrethi_tokyo490 1
+rue_de_rome92 4
+94
+5
+rue_athens889 1
+place_athens93 1
+bulevard_la_cairo690 1
+rrethi_cairo292 1
+avenue_le_sydney491 1
+95
+5
+road_sydney492 1
+rrethi_d'_moscow691 1
+rrethi_berlin890 1
+boulevard_newyork94 1
+rrethi_d'_prishtina293 1
+96
+5
+rue_london95 1
+square_newyork891 3
+bulevardi_du_lisbon493 1
+road_rome692 3
+rue_d'_paris294 1
+97
+5
+place_d'_rio96 1
+bulevard_de_lisbon892 1
+lane_les_london295 1
+road_la_rome693 1
+lane_london494 1
+98
+5
+rue_paris694 1
+rrethi_le_tokyo893 1
+square_newyork296 1
+rruga_tokyo495 1
+sheshi_moscow97 1
+99
+5
+rrethi_berlin98 1
+rue_des_london297 1
+avenue_cairo695 1
+rrethi_rio894 1
+rruga_de_moscow496 1
+100
+5
+street_la_sydney895 1
+sheshi_de_rio298 1
+road_d'_rio99 1
+lane_d'_madrid497 1
+sheshi_tokyo696 1
+101
+5
+buleva_des_madrid498 3
+rue_madrid100 3
+rruga_du_berlin299 1
+buleva_la_rio896 1
+bulevardi_athens697 1
+102
+5
+square_du_berlin101 1
+boulevard_du_sydney698 1
+road_des_tokyo300 1
+rruga_la_berlin897 1
+rruga_les_moscow499 1
+103
+5
+place_moscow301 1
+bulevardi_du_sydney699 1
+square_le_newyork102 1
+buleva_tokyo500 1
+rruga_london898 1
+104
+5
+buleva_la_tokyo103 3
+rruga_des_paris302 1
+rruga_cairo700 1
+bulevardi_prishtina501 1
+place_berlin899 1
+105
+5
+sheshi_d'_paris701 1
+place_les_prishtina104 1
+bulevard_du_rio303 1
+rruga_rio502 1
+square_berlin900 1
+106
+5
+bulevard_prishtina304 1
+place_d'_cairo105 1
+rruga_paris901 3
+lane_berlin503 1
+lane_madrid702 1
+107
+5
+bulevardi_d'_sydney504 1
+boulevard_le_lisbon305 1
+rrethi_athens106 1
+sheshi_lisbon902 1
+lane_des_rome703 1
+108
+5
+street_madrid306 3
+rrethi_prishtina107 1
+street_prishtina903 1
+buleva_les_cairo704 1
+boulevard_le_athens505 1
+109
+5
+bulevardi_rio705 1
+bulevard_le_london307 1
+road_athens108 1
+bulevard_berlin506 1
+road_la_moscow904 2
+110
+5
+street_le_prishtina706 1
+place_lisbon905 1
+road_cairo109 1
+rruga_d'_berlin507 1
+avenue_berlin308 1
+111
+5
+avenue_paris508 1
+sheshi_les_newyork707 2
+place_berlin110 1
+street_beijing906 1
+street_le_tokyo309 1
+112
+5
+rruga_le_sydney708 1
+lane_le_moscow907 1
+sheshi_des_athens310 1
+buleva_paris111 1
+rrethi_madrid509 3
+113
+5
+street_la_sydney908 1
+rruga_des_lisbon709 1
+bulevard_la_rio311 1
+street_madrid510 2
+buleva_le_tokyo112 1
+114
+5
+buleva_de_berlin909 3
+boulevard_de_rio312 1
+rrethi_paris113 1
+rue_rome710 1
+square_des_moscow511 1
+115
+5
+rruga_paris313 1
+square_de_newyork910 2
+buleva_d'_madrid114 1
+rue_le_moscow512 1
+buleva_le_sydney711 1
+116
+4
+bulevardi_le_prishtina513 1
+square_le_lisbon911 1
+lane_d'_london314 1
+buleva_rio712 1
+117
+5
+bulevard_tokyo912 1
+place_du_cairo116 1
+bulevardi_d'_madrid315 1
+rruga_le_sydney514 1
+road_la_moscow713 1
+118
+5
+rruga_tokyo117 1
+lane_london316 1
+rruga_du_cairo515 1
+place_rome913 1
+road_les_rome714 1
+119
+5
+buleva_paris715 1
+rrethi_des_prishtina914 1
+lane_paris118 1
+place_madrid317 1
+lane_d'_prishtina516 1
+120
+5
+road_berlin318 1
+lane_la_rome716 1
+lane_beijing915 3
+square_berlin517 1
+place_beijing119 1
+121
+5
+road_la_beijing717 3
+street_beijing120 1
+road_du_paris319 2
+street_des_cairo518 1
+avenue_cairo916 3
+122
+5
+sheshi_tokyo718 1
+rue_des_beijing519 1
+road_le_sydney320 1
+place_la_prishtina121 1
+place_london917 1
+123
+5
+rue_berlin719 1
+road_madrid321 1
+avenue_du_beijing122 1
+street_de_tokyo918 1
+bulevardi_les_beijing520 1
+124
+5
+bulevard_newyork720 1
+sheshi_des_cairo919 1
+road_paris521 1
+road_london123 1
+bulevardi_le_berlin322 1
+125
+5
+avenue_la_rome721 1
+rue_la_athens522 1
+rue_du_rio323 1
+bulevardi_les_cairo920 1
+bulevard_d'_rio124 1
+126
+5
+road_tokyo324 1
+square_la_madrid523 1
+rrethi_les_london125 1
+rrethi_cairo921 1
+rue_rio722 2
+127
+5
+sheshi_tokyo723 2
+boulevard_rio126 3
+boulevard_athens524 1
+bulevardi_madrid325 1
+place_le_newyork922 1
+128
+5
+road_les_paris127 1
+buleva_berlin923 3
+rrethi_sydney525 1
+street_les_paris724 1
+boulevard_du_sydney326 1
+129
+5
+rrethi_cairo924 1
+road_de_newyork128 1
+rue_la_moscow327 1
+place_la_sydney725 1
+sheshi_des_lisbon526 1
+130
+5
+bulevardi_tokyo925 4
+rrethi_paris527 1
+buleva_d'_rome129 1
+rrethi_athens328 1
+square_london726 1
+131
+5
+sheshi_rio130 4
+street_cairo926 1
+boulevard_athens329 1
+sheshi_la_london727 1
+square_tokyo528 1
+132
+5
+place_d'_tokyo330 1
+boulevard_du_rio927 1
+street_rome728 2
+place_madrid131 1
+rruga_le_beijing529 1
+133
+5
+sheshi_des_lisbon331 3
+bulevardi_du_london132 1
+boulevard_des_athens530 1
+avenue_madrid928 1
+lane_les_moscow729 1
+134
+5
+street_la_lisbon133 3
+street_le_cairo531 1
+road_la_moscow332 1
+bulevardi_newyork929 1
+buleva_la_rio730 1
+135
+5
+rue_des_berlin134 1
+street_du_paris532 1
+place_beijing333 1
+bulevard_du_beijing930 1
+rrethi_d'_berlin731 4
+136
+5
+road_newyork533 3
+boulevard_du_athens732 1
+square_rio334 1
+bulevardi_london931 1
+boulevard_sydney135 1
+137
+5
+avenue_du_lisbon733 1
+place_moscow534 1
+road_rio335 1
+bulevardi_prishtina136 1
+place_de_lisbon932 2
+138
+5
+rruga_les_cairo535 1
+rrethi_tokyo336 1
+bulevard_rome933 1
+place_le_prishtina137 2
+lane_des_rio734 1
+139
+5
+rue_rio337 1
+bulevardi_london536 3
+buleva_berlin735 1
+rrethi_newyork138 1
+rrethi_de_newyork934 1
+140
+5
+road_le_sydney736 1
+buleva_d'_tokyo338 1
+boulevard_newyork139 1
+street_paris537 1
+street_la_london935 1
+141
+5
+bulevard_paris140 1
+buleva_des_rio339 1
+boulevard_sydney737 1
+buleva_d'_london936 1
+road_le_lisbon538 1
+142
+5
+boulevard_rio539 1
+rruga_rome340 4
+place_le_paris738 1
+street_madrid937 1
+rue_de_tokyo141 1
+143
+5
+lane_tokyo938 1
+rrethi_berlin142 1
+boulevard_la_tokyo341 1
+bulevard_les_rio739 1
+sheshi_lisbon540 1
+144
+5
+place_london342 1
+rruga_le_paris939 1
+lane_rio143 1
+sheshi_des_lisbon740 1
+street_madrid541 1
+145
+5
+rue_tokyo940 1
+rruga_rio741 1
+rrethi_le_rome542 1
+road_la_cairo144 1
+boulevard_du_prishtina343 1
+146
+5
+sheshi_d'_newyork145 1
+rruga_prishtina344 1
+avenue_tokyo742 1
+bulevard_rome941 1
+lane_tokyo543 1
+147
+5
+rrethi_le_berlin942 6
+lane_les_beijing743 1
+rrethi_les_berlin544 1
+street_d'_madrid345 1
+bulevardi_la_athens146 1
+148
+5
+bulevardi_des_prishtina943 1
+lane_la_prishtina545 1
+boulevard_des_athens346 1
+rruga_rome744 1
+bulevard_madrid147 1
+149
+5
+rruga_cairo546 1
+lane_paris745 2
+square_athens347 1
+avenue_des_moscow944 1
+lane_du_sydney148 1
+150
+5
+avenue_des_cairo945 1
+boulevard_sydney348 1
+rruga_lisbon149 1
+avenue_de_madrid746 1
+avenue_newyork547 1
+151
+5
+street_berlin946 1
+rruga_rio349 1
+rruga_sydney548 1
+buleva_d'_newyork150 1
+square_le_cairo747 1
+152
+5
+rue_prishtina350 1
+boulevard_d'_sydney947 1
+rruga_la_madrid748 1
+street_paris549 1
+rruga_le_moscow151 1
+153
+5
+rruga_le_rio351 1
+bulevard_des_beijing550 1
+rruga_tokyo152 4
+boulevard_les_moscow948 1
+sheshi_beijing749 3
+154
+5
+rue_cairo750 1
+avenue_le_moscow153 1
+buleva_beijing949 1
+boulevard_berlin352 1
+buleva_rome551 1
+155
+5
+avenue_le_sydney950 3
+road_beijing154 3
+lane_madrid353 1
+road_la_london751 1
+avenue_les_sydney552 1
+156
+5
+avenue_des_newyork354 1
+street_paris553 1
+bulevard_des_newyork752 1
+square_rio951 1
+road_des_newyork155 1
+157
+5
+sheshi_moscow952 1
+boulevard_sydney355 1
+bulevard_les_newyork156 2
+rue_la_athens753 1
+bulevard_de_rio554 1
+158
+5
+street_rio754 1
+rue_la_paris356 4
+rue_du_newyork157 1
+buleva_les_newyork953 1
+sheshi_le_athens555 1
+159
+5
+boulevard_du_moscow158 1
+boulevard_madrid954 1
+avenue_moscow357 1
+street_cairo556 1
+rrethi_d'_london755 1
+160
+5
+rrethi_d'_sydney955 1
+bulevard_berlin159 1
+lane_d'_cairo557 1
+lane_sydney756 1
+square_paris358 1
+161
+5
+bulevardi_rome160 1
+bulevard_cairo757 1
+street_paris359 1
+street_le_cairo558 1
+square_des_lisbon956 1
+162
+5
+rue_d'_tokyo559 1
+buleva_paris360 2
+rue_des_prishtina758 1
+rruga_berlin161 1
+buleva_beijing957 1
+163
+5
+rue_de_rio759 1
+sheshi_la_moscow958 1
+rue_les_cairo560 1
+boulevard_athens361 1
+sheshi_de_athens162 1
+164
+5
+square_beijing163 1
+road_sydney362 1
+place_du_madrid760 1
+rruga_madrid561 1
+bulevard_moscow959 1
+165
+5
+avenue_la_prishtina164 1
+lane_cairo363 1
+bulevard_berlin761 1
+boulevard_madrid960 3
+lane_cairo562 1
+166
+5
+buleva_moscow563 1
+rruga_des_paris961 1
+rrethi_rio165 1
+road_de_madrid762 1
+rrethi_la_paris364 1
+167
+5
+rue_sydney166 1
+lane_du_rome365 1
+rruga_la_berlin763 1
+rrethi_le_cairo962 1
+boulevard_la_athens564 1
+168
+5
+avenue_berlin366 1
+boulevard_madrid764 4
+boulevard_les_newyork963 3
+rue_sydney565 1
+rrethi_athens167 1
+169
+5
+lane_moscow168 1
+street_prishtina367 1
+bulevardi_london964 1
+bulevard_les_rio566 1
+rrethi_lisbon765 2
+170
+5
+rrethi_du_lisbon567 1
+rrethi_beijing766 1
+rue_berlin169 2
+bulevard_du_newyork368 1
+lane_la_paris965 1
+171
+5
+rrethi_moscow568 3
+rrethi_d'_beijing369 1
+rruga_la_lisbon767 1
+bulevardi_cairo170 1
+road_des_rio966 3
+172
+5
+sheshi_les_moscow967 1
+sheshi_london171 1
+bulevardi_berlin768 1
+sheshi_la_prishtina370 1
+avenue_du_berlin569 1
+173
+5
+buleva_athens968 3
+rruga_la_moscow570 1
+rrethi_d'_athens172 1
+avenue_paris371 1
+square_cairo769 1
+174
+5
+rruga_la_sydney372 2
+rruga_des_moscow969 1
+boulevard_cairo173 1
+bulevardi_sydney770 2
+sheshi_rome571 1
+175
+5
+boulevard_le_berlin771 1
+street_de_paris373 1
+sheshi_des_sydney174 1
+place_sydney572 1
+place_newyork970 1
+176
+5
+rue_du_rome175 1
+rruga_tokyo374 1
+road_newyork573 1
+bulevardi_d'_tokyo971 1
+sheshi_de_rome772 1
+177
+5
+rue_madrid375 2
+lane_de_sydney972 1
+boulevard_les_rome176 1
+boulevard_tokyo574 1
+place_le_athens773 1
+178
+5
+buleva_moscow177 1
+square_rome376 1
+square_d'_rio973 1
+avenue_les_madrid575 1
+sheshi_cairo774 1
+179
+5
+square_des_madrid576 1
+rrethi_d'_paris974 1
+bulevardi_tokyo775 1
+place_du_london377 1
+place_la_berlin178 1
+180
+5
+square_athens776 1
+road_athens179 1
+rue_tokyo975 1
+bulevardi_paris577 1
+rrethi_des_prishtina378 1
+181
+5
+square_madrid777 1
+buleva_paris379 3
+square_athens578 1
+rruga_tokyo180 1
+rruga_des_cairo976 1
+182
+5
+place_london579 1
+place_rome181 4
+avenue_d'_cairo977 1
+avenue_cairo778 1
+boulevard_des_newyork380 1
+183
+5
+place_la_beijing779 1
+rruga_du_paris182 1
+boulevard_d'_prishtina381 3
+rruga_tokyo978 1
+rruga_rome580 1
+184
+5
+square_london382 3
+square_berlin183 1
+rruga_athens581 2
+avenue_la_athens780 1
+rrethi_madrid979 1
+185
+5
+avenue_le_rome184 3
+street_d'_lisbon582 1
+rruga_athens383 1
+rue_moscow781 1
+sheshi_tokyo980 1
+186
+5
+rruga_lisbon981 1
+avenue_de_moscow185 1
+rrethi_de_athens583 3
+road_la_sydney782 1
+buleva_la_lisbon384 1
+187
+5
+rue_de_prishtina584 1
+square_d'_tokyo385 1
+boulevard_le_beijing186 1
+buleva_madrid783 4
+rrethi_d'_moscow982 1
+188
+5
+boulevard_madrid784 1
+place_beijing585 1
+bulevard_du_moscow187 1
+bulevard_prishtina386 1
+lane_rome983 1
+189
+5
+buleva_du_lisbon785 1
+road_london984 3
+square_les_madrid188 1
+rue_des_athens387 1
+lane_d'_beijing586 1
+190
+5
+place_de_london587 1
+rue_tokyo786 1
+avenue_du_berlin388 1
+rrethi_prishtina189 2
+rue_des_rio985 1
+191
+5
+rrethi_newyork190 1
+sheshi_berlin389 3
+place_london787 3
+road_tokyo986 1
+road_de_moscow588 1
+192
+5
+rue_les_newyork589 1
+lane_berlin788 1
+boulevard_athens390 1
+road_le_rio191 1
+buleva_madrid987 1
+193
+5
+square_paris590 1
+buleva_lisbon192 1
+place_lisbon789 1
+road_des_berlin391 1
+rruga_tokyo988 1
+194
+5
+buleva_tokyo591 1
+lane_sydney790 1
+lane_rome193 1
+road_des_moscow989 1
+rrethi_les_berlin392 1
+195
+5
+avenue_cairo592 1
+place_madrid194 3
+rrethi_rome791 1
+rrethi_prishtina393 1
+road_la_madrid990 1
+196
+5
+boulevard_tokyo593 1
+rruga_de_moscow195 1
+sheshi_des_beijing991 3
+place_rome792 1
+rrethi_madrid394 1
+197
+5
+street_prishtina992 1
+square_london793 1
+bulevard_athens395 1
+bulevardi_d'_cairo196 1
+rruga_newyork594 1
+198
+5
+bulevard_d'_rio396 1
+bulevardi_london197 1
+bulevard_les_berlin794 1
+avenue_le_cairo595 1
+bulevard_de_lisbon993 1
+199
+5
+avenue_d'_tokyo994 1
+road_d'_rio795 1
+rue_de_lisbon596 1
+buleva_rome397 1
+bulevard_prishtina198 1
